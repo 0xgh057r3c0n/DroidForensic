@@ -1,6 +1,6 @@
 # 📱 DroidForensic - Advanced Mobile Forensic Framework 🕵️‍♂️
 
-![DroidForensic Banner](https://via.placeholder.com/800x300?text=DroidForensic)  
+![DroidForensic Banner](logo.png)  
 
 ## 🚀 About
 DroidForensic is an advanced mobile forensic framework designed to extract critical data from Android devices using ADB (Android Debug Bridge). It allows security researchers, forensic experts, and ethical hackers to retrieve call logs, SMS, photos, videos, installed APKs, and more.  
